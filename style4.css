@@ -1,0 +1,12 @@
+.image-container {
+    display: flex;
+    gap: 20px;
+
+}
+
+.image-container {
+    width: 200px;
+    height: auto;
+padding:20px;
+
+}
