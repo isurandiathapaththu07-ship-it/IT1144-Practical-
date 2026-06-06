@@ -1,0 +1,46 @@
+ * { margin:0; padding:0; box-sizing:border-box; font-family:Arial,sans-serif;}
+
+.top-header { display:flex; justify-content:space-between; align-items:flex-start;
+              padding:5px 5px; }
+
+.logo { display:flex; align-items:center; }
+
+.logo img { width:100px; hieght:10px;}
+
+
+.top-links {margin-left:auto;}
+
+.top-links a{  text-decoration:none; padding:10px;  color:green; text-align:right;}
+
+.top-links a:hover {color:red;}
+
+.navigation { border: 2px solid black; background-color:pink; margin-left:10px; margin-right:10px; }
+.navigation a { text-decoration:none; padding : 10px; margin:10px; }
+.navigation a:hover {color:red;}
+
+
+.banner img { width:100%; height:auto; display:block; }
+.banner-text  { position:absolute; top:50% ; left:50%;}
+.banner-text h1 {font-size:50px;}
+
+footer {border:2px solid black; background-color:pink; }
+.footer-section {color:white; margin-left:10px; margin-right:10px;} 
+
+
+
+
+.container { display:flex; padding:10px; marging:10px; gap:30px;}
+
+.container img {width:100P%; height:auto; border-radius:8px;}
+
+
+.home-btn { display:inline-block;background-color:lightblue; margin:10px; padding:15px; color:White; border:2px dotted red; border-radius:10px;}
+
+.home-btn:hover { background-color:purple; color:white;}
+
+
+.search-box {margin-top:50px; text-align:center;}
+
+body { background-color:yellow;}
+
+
